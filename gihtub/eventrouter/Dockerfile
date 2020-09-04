@@ -1,0 +1,1 @@
+FROM gcr.io/heptio-images/eventrouter:v0.3
